@@ -2,15 +2,17 @@
 
 <!--
 **Hari-Priya-SK/Hari-Priya-SK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Hari Priya
+- 🎓 MSc Computer Science Graduate (2023)
+- 🌱 Learning Data Analytics | Python | Git
+- 📫 How to reach me: [haripriyaselvara09@gmail.com] | []
 
-Here are some ideas to get you started:
+## 💼 Projects
+- Sea Level Predictor 🌊
+- Time Series Visualizer 📈
+- Medical Data Visualizer 🩺
+- Demographic Data Analyzer 🧮
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+> Passionate about building real-world projects and open to job opportunities!
+
 -->
